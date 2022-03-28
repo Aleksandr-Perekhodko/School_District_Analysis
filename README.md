@@ -42,4 +42,5 @@ The Differences between the two data frames are very minimal they are almost bas
 
 <img width="736" alt="New_TomHS" src="https://user-images.githubusercontent.com/97326526/160321556-2f365f37-8f29-4355-a238-8c73ab70710e.PNG">
 Comparing the Clean data to the original data there is quite a difference. The clean data and the original datas math and reading score are very similiar with math scores having a difference of 0.7% and reading scores having a difference of clean data to original data of 0.05%. But there is quite a difference for clean data and the original data for % passing in reading, math, and overall passing. Again the difference between the orginal data and clean data for Thomas High School is the Original data still has ninth graders in the data frame while the clean data only has tenth to twelfth graders in the data frame. The difference between clean data and original data for % Passing Math, % Passing Reading, % Overall Passing is as follows. % Passing Math, -26.36%; % Passing Reading, -27.64%; % Overall Passing, -25.87%. That is quite a difference with not having ninth graders in the data frame.
+
 ## Summary
